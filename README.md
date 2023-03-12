@@ -1,7 +1,5 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Visual Thinking platform voor het HBO
 
 ## Inhoudsopgave
 
@@ -11,16 +9,19 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+De user story waar ik aan heb gewerkt luidt als volgt: "Als student wil ik voorbeeldopdrachten zien zodat ik kan zien wat de bedoeling is van de werkvorm."
+
+Het doel van de pagina is om voorbeeldopdrachten te weergeven zodat studenten deze kunnen inkijken en zo kunnen leren hoe zij de werkvorm kunnen toepassen.
+
+![image](https://user-images.githubusercontent.com/112857131/224522507-4e0f9bb8-486c-4fa5-8fc1-e0e688ca4f57.png)
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-
+In deze leertaak ben verder gegaan met mijn pagina voor visual thinking. Ik heb hier gefocust op accessibility en heb dit getest met Lighthouse.
 
 ## Bronnen
+* [Figma Prototype](https://www.figma.com/proto/BcmZb4clafkTX1UM1GN3F2/Prototype-v3-Visual-Thinking-in-het-HBO?node-id=21%3A995&starting-point-node-id=21%3A995&scaling=scale-down)
+* [Visual Thinking Styleguide](https://github.com/fdnd-agency/visual-thinking/blob/0bcfc55d8c25483d18e5c6629ad7fa7e99ca7b51/vtHBO-styleguide-v1.pdf)
+* [Project Board](https://github.com/orgs/fdnd-agency/projects/7)
 
 ## Licentie
 
